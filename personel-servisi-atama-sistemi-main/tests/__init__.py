@@ -1,0 +1,1 @@
+"""Otomatik test paketi."""
